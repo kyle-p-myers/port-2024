@@ -29,7 +29,7 @@ export default function InboxButtonGroup() {
    
           <StarFilledIcon className="mr-3"></StarFilledIcon>Starred
         </Button>
-        <Separator className="mt-6"/>
+        <Separator className="mt-2 mb-6"/>
       </div>
     </div>
   );
